@@ -1,7 +1,7 @@
 ## Hi there 👋 Its me Maha Lakshmi
 
 # 💫 About Me:
-🔭 I'm currently pursuing a bachelor's degree in Cyber security<br><br>🤝 Lets create a something powerful together<br><br>🌱 Levelling up my skills in Designing , cloud computing , hacking etc..<br><br>💬 Passionate about tech , learning , and creating solutios<br><br>⚡ Hacking minds , not machines
+🔭 I'm currently pursuing a bachelor's degree in Cyber security<br><br>🤝 Lets create a something powerful together<br><br>🌱 Levelling up my skills in Designing , cloud computing , hacking etc..<br><br>💬 Passionate about tech , learning , and creating solutions<br><br>⚡ Hacking minds , not machines
 
 
 
