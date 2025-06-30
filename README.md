@@ -17,6 +17,7 @@
 
 ## Skills:
 ~ *Figma*-Creating a design and prototype in figma
+
 ~*Scriptwriting*-Script wriitng for an event
 
 ---
