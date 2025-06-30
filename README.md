@@ -16,7 +16,10 @@
 ---
 
 ## Skills:
-~ *Figma*-
+~ *Figma*-Creating a design and prototype in figma
+~*Scriptwriting*-Script wriitng for an event
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
