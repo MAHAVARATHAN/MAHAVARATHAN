@@ -1,21 +1,3 @@
-## Hi Its me Maha Lakshmi
-
-
-Cyber Security Engneering Student 
-
-🔭 I'm currently pursuing a degree in Cyber security
-
-🤝 Lets create a something powerful together
-
-🌱 Levelling up my skills in Designing , cloud computing , hacking etc..
-
-💬 Passionate about tech , learning , and creating solutios
-
-⚡ Hacking minds , not machines
-
-
-
-
 # 💫 About Me:
 🔭 I'm currently pursuing a degree in Cyber security<br><br>🤝 Lets create a something powerful together<br><br>🌱 Levelling up my skills in Designing , cloud computing , hacking etc..<br><br>💬 Passionate about tech , learning , and creating solutios<br><br>⚡ Hacking minds , not machines
 
