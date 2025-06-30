@@ -1,4 +1,12 @@
+🔭 I'm currently pursuing a degree in Cyber security
 
+🤝 Lets create a something powerful together
+
+🌱 Levelling up my skills in Designing , cloud computing , hacking etc..
+
+💬 Passionate about tech , learning , and creating solutios
+
+⚡ Hacking minds , not machines
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
